@@ -48,8 +48,8 @@ headers = {
 data = f'txt={sys.argv[1]}'
 
 sent_data = requests.post('http://howdoi.remote.moe', headers=headers, data=data)
-data = json.loads(sent_data.json())
 print(sent_data.status_code)
+data = json.loads(sent_data.json())
 for i in data:
     print(i["answer"])
     print(i["link"])
@@ -145,3 +145,6 @@ var_dump($resp);
 ?>
 
 ```
+
+## what to check out the cli howdoi see [here] (https://github.com/gleitz/howdoi)
+
