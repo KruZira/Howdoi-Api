@@ -146,13 +146,13 @@ var_dump($resp);
 
 ```
 
-### what to check out the cli howdoi
+### Check out the cli howdoi
 
  see [here](https://github.com/gleitz/howdoi)
 
 
-### Built with 💕
+### Built with 💕 by Kruz
 
-**Python Gui Package 📦**
+**Python Cli Package 📦**
 
-Contact [Telegram](https://t.me/KruzTv1)
+Contact [Telegram](https://t.me/Wishfox)
