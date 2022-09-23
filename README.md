@@ -157,4 +157,4 @@ var_dump($resp);
 
 Contact [Telegram](https://t.me/Wishfox)
 
-My Article [hsh](https://medium.com/@odilikruz)
+Find My Article on [Medium /Howdoi Api](https://medium.com/@odilikruz/how-the-howdoi-api-can-help-you-find-answers-to-questions-in-real-time-a54b4bf144eb)
